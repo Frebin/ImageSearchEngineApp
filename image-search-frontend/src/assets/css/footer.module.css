@@ -1,0 +1,29 @@
+.footer {
+    width: 100%;
+}
+
+.footerTop {
+    background-color: #00FF66;
+    color: black;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.footerText {
+    font-weight: bold;
+}
+
+.footerBottom {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}
+
+.footerTitle {
+    font-weight: bold;
+}
+
+.footerSubtitle {
+    font-size: 0.875rem;
+}

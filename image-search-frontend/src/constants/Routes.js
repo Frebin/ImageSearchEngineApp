@@ -1,0 +1,1 @@
+export const imageSearchUrl = '/api/v1/images/search'
